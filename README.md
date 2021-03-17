@@ -10,4 +10,4 @@ A simple browser made for android **(means only for android)**.
 6. After it is installed, click on **open**.
 7. Enjoy the browser!!!
 
-*don't be afraid because the app is not verified by google that is why the warning is shown.It won't harm your phone.
+*don't be afraid because the app is not verified by google that is why the warning is shown. It won't harm your phone.
